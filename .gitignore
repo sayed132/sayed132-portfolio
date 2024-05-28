@@ -1,2 +1,5 @@
 node_modules
 ./src/firebase
+dist
+.firebaserc
+firebase.json
